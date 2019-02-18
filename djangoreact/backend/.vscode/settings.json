@@ -1,0 +1,19 @@
+{
+    "python.pythonPath": "C:\\Users\\NIKHIL\\AppData\\Local\\Programs\\Python\\Python37-32\\python.exe",
+    //"team.showWelcomeMessage": false,
+    "editor.formatOnSave": true,
+    "python.linting.pep8Enabled": false,
+    "python.linting.pylintPath": "pylint",
+    "python.linting.pylintArgs": [
+        "--load-plugins",
+        "pylint_django"
+    ],
+    "python.linting.pylintEnabled": true,
+    "python.terminal.activateEnvironment": false,
+    "python.venvPath": "E:/nikhil/djangoreact/backend/env/Scripts/python",
+    "python.linting.pep8Args": [
+        "--ignore=E501"
+    ],
+    "terminal.integrated.shell.windows": "C:\\Windows\\system32\\cmd.exe",
+    "python.linting.enabled": true
+}
